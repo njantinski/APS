@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Preveduvac",
+            "request": "launch",
+            "mainClass": "Nikolaj.com.hashing.Preveduvac",
+            "projectName": "aud1_729b53cf"
+        }
+    ]
+}
