@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81e70b88-49e2-4dff-89a7-3e208b96214a" name="Default Changelist" comment="" />
+    <list default="true" id="81e70b88-49e2-4dff-89a7-3e208b96214a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -236,7 +238,7 @@
       <workItem from="1582140085254" duration="283000" />
       <workItem from="1582195089176" duration="557000" />
       <workItem from="1582205509795" duration="291000" />
-      <workItem from="1582455309150" duration="507000" />
+      <workItem from="1582455309150" duration="762000" />
     </task>
     <task id="LOCAL-00001" summary="novi zadaci">
       <created>1582455785593</created>
@@ -252,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582455819793</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="novi zadaci">
+      <created>1582456060034</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582456060034</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,10 +285,10 @@
       <screen x="0" y="27" width="1366" height="694" />
     </state>
     <state x="815" y="246" width="494" height="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1366.694@0.27.1366.694" timestamp="1582455444645" />
-    <state x="245" y="27" width="865" height="694" key="CommitChangelistDialog2" timestamp="1582455819565">
+    <state x="245" y="27" width="865" height="694" key="CommitChangelistDialog2" timestamp="1582456059796">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state x="245" y="27" width="865" height="694" key="CommitChangelistDialog2/0.27.1366.694@0.27.1366.694" timestamp="1582455819565" />
+    <state x="245" y="27" width="865" height="694" key="CommitChangelistDialog2/0.27.1366.694@0.27.1366.694" timestamp="1582456059796" />
     <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1582026406619">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
