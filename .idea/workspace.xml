@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81e70b88-49e2-4dff-89a7-3e208b96214a" name="Default Changelist" comment="" />
+    <list default="true" id="81e70b88-49e2-4dff-89a7-3e208b96214a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nikolaj/com/lists/SpojListiNajizmenicno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nikolaj/com/lists/SumaPrethodniElementi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -29,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -37,15 +46,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="napredno.vezbi1" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Nikolaj\Desktop\JavaPrograms\ApsVezbi\aud1\src\Nikolaj\com\queue" />
       <recent name="C:\Users\Nikolaj\Desktop\JavaPrograms\ApsVezbi\aud1\src\Nikolaj\com\stack" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="napredno.vezbi1" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ispitJanuari2020">
+  <component name="RunManager" selected="Application.formatiranjeBroj">
     <configuration name="Opstini" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Nikolaj.com.hashing.Opstini" />
       <module name="aud1" />
@@ -72,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ispitJanuari2020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nikolaj.com.lists.ispitJanuari2020" />
+    <configuration name="formatiranjeBroj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nikolaj.com.lists.formatiranjeBroj" />
       <module name="aud1" />
       <extension name="coverage">
         <pattern>
@@ -85,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rodendeni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nikolaj.com.hashing.rodendeni" />
+    <configuration name="ispitJanuari2020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nikolaj.com.lists.ispitJanuari2020" />
       <module name="aud1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nikolaj.com.hashing.*" />
+          <option name="PATTERN" value="Nikolaj.com.lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.formatiranjeBroj" />
         <item itemvalue="Application.ispitJanuari2020" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Statistika" />
         <item itemvalue="Application.Opstini" />
-        <item itemvalue="Application.rodendeni" />
       </list>
     </recent_temporary>
   </component>
@@ -227,6 +236,7 @@
       <workItem from="1582140085254" duration="283000" />
       <workItem from="1582195089176" duration="557000" />
       <workItem from="1582205509795" duration="291000" />
+      <workItem from="1582455309150" duration="264000" />
     </task>
     <servers />
   </component>
@@ -243,6 +253,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="480" y="166" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.860@0.0.1600.860" timestamp="1581668217657" />
+    <state x="815" y="246" width="494" height="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582455444645">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="815" y="246" width="494" height="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1366.694@0.27.1366.694" timestamp="1582455444645" />
+    <state x="245" y="27" width="865" height="694" key="CommitChangelistDialog2" timestamp="1582455745385">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="245" y="27" width="865" height="694" key="CommitChangelistDialog2/0.27.1366.694@0.27.1366.694" timestamp="1582455745385" />
     <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1582026406619">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
